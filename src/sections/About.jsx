@@ -1,6 +1,6 @@
 import SectionContainer from "../components/SectionContainer";
 import GlassCard from "../components/GlassCard";
-import profileImg from "../assets/kathiyan.png";
+import profileImg from "../assets/Kathiyan.png";
 
 const About = () => {
     return (
