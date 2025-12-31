@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { Link } from "react-scroll";
 import { Download, ArrowRight, ChevronDown, Sparkles } from "lucide-react";
 import GlowButton from "../components/GlowButton";
-import resumePdf from "../assets/Kathiyan Resume.pdf";
+import resumePdf from "../assets/Kathiyan_Resume.pdf";
 
 const Home = () => {
     return (
